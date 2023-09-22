@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec2792c078ee32f4885a9528d25b55ec, type: 3}
+  m_Name: Normal2Line5
+  m_EditorClassIdentifier: 
+  segments:
+  - _positionY: 2.5
+    _enemies:
+    - _enemy: {fileID: -6908773259255340692, guid: 5574ba56414924d428c9a9d3f533ab44, type: 3}
+      _count: 5
+  - _positionY: -2.5
+    _enemies:
+    - _enemy: {fileID: -6908773259255340692, guid: 5574ba56414924d428c9a9d3f533ab44, type: 3}
+      _count: 5

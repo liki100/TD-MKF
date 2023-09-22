@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 456f7ff99f6ac4e4195e2e3ecdf3d2ac, type: 3}
+  m_Name: "\u0421annonConfig"
+  m_EditorClassIdentifier: 
+  _lvl: 1
+  _damage: 1
+  _bulletSpeed: 0.5
+  _defaultCooldownTime: 0.25
+  _levelProjectilePoint:
+  - _projectilePoints:
+    - {fileID: 1146611156199121947, guid: 2460655e4ffd2b444bca8a5a18e3e97e, type: 3}
+  - _projectilePoints:
+    - {fileID: 6352843914444209868, guid: 27579cf352c0b9b4f8570302efb60aeb, type: 3}
+    - {fileID: 6317848116054905135, guid: b7768ff3c846d5643b73079232a265d9, type: 3}

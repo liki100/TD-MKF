@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec2792c078ee32f4885a9528d25b55ec, type: 3}
+  m_Name: EasyCenter5
+  m_EditorClassIdentifier: 
+  segments:
+  - _positionY: 0
+    _enemies:
+    - _enemy: {fileID: 8379936196097004704, guid: b195a383fc0764c4e94765f52cbbfb56, type: 3}
+      _count: 5
